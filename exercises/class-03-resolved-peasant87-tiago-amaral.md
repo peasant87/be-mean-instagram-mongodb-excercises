@@ -38,7 +38,7 @@ autor: Tiago Amaral
 	  "attack": 30,
 	  "height": 0.3
 	}
-	Fetched 4 record(s) in 7ms
+	Fetched 4 record(s) in 4ms
 
     ```
 
@@ -62,7 +62,47 @@ autor: Tiago Amaral
 	  "attack": 52,
 	  "height": 0.6
 	}
-	Fetched 2 record(s) in 2ms
+	{
+	  "_id": ObjectId("581297bfa30814a771543a89"),
+	  "name": "Sandshrew",
+	  "description": "tatu lutador",
+	  "attack": 40,
+	  "defense": 40,
+	  "height": 0.6
+	}
+	{
+	  "_id": ObjectId("581297c7a30814a771543a8a"),
+	  "name": "Clefairy",
+	  "description": "fada lutadora",
+	  "attack": 20,
+	  "defense": 20,
+	  "height": 0.6
+	}
+	{
+	  "_id": ObjectId("581297d5a30814a771543a8b"),
+	  "name": "Clefairy",
+	  "description": "fada lutadora",
+	  "attack": 20,
+	  "defense": 20,
+	  "height": 0.6
+	}
+	{
+	  "_id": ObjectId("581297dea30814a771543a8c"),
+	  "name": "Abra",
+	  "description": "dorminhoco teletransportador",
+	  "attack": 10,
+	  "defense": 10,
+	  "height": 0.9
+	}
+	{
+	  "_id": ObjectId("581297e9a30814a771543a8d"),
+	  "name": "Tentacool",
+	  "description": "polvo lutador",
+	  "attack": 20,
+	  "defense": 20,
+	  "height": 0.9
+	}
+	Fetched 7 record(s) in 9ms
 
     ```
 
